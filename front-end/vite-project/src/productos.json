@@ -1,0 +1,33 @@
+{
+    "productos": [
+        {
+            "name": "Coca Cola",
+            "price": 1.50,
+            "imagen": "https://www.cocacola.es/content/dam/GO/CokeZone/Common/Icons/Icon_Coca-Cola.png",
+            "description": "Refresco de cola",
+            "contador":1
+
+        },
+        {
+            "name": "pepsi",
+            "price": 1.50,
+            "imagen": "https://www.cocacola.es/content/dam/GO/CokeZone/Common/Icons/Icon_Coca-Cola.png",
+            "description": "Refresco de cola",
+            "contador":1
+        },
+        {
+            "name": "piña",
+            "price": 1.50,
+            "imagen": "https://www.cocacola.es/content/dam/GO/CokeZone/Common/Icons/Icon_Coca-Cola.png",
+            "description": "Refresco de cola",
+            "contador":1
+        },
+        {
+            "name": "golden",
+            "price": 1.50,
+            "imagen": "https://www.cocacola.es/content/dam/GO/CokeZone/Common/Icons/Icon_Coca-Cola.png",
+            "description": "Refresco de cola",
+            "contador":1
+        }
+    ]
+}
